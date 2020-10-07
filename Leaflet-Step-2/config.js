@@ -1,0 +1,2 @@
+// API key
+const API_KEY = "INSERT MAPBOX API KEY";
